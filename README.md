@@ -10,7 +10,7 @@ Display all the properties of the object.
 
 -----------------------------------------------------------------------
 
-class employee:
+    class employee:
 
     def __init__(self, name, email, number):
     
@@ -21,21 +21,21 @@ class employee:
         self.number = number
         
 
-employ1 = employee("maicah", "maicahmin14@gmail.com", "09216432337")
+    employ1 = employee("maicah", "maicahmin14@gmail.com", "09216432337")
 
-print(employ1.name)
+    print(employ1.name)
 
-print(employ1.email)
+    print(employ1.email)
 
-print(employ1.number)
+    print(employ1.number)
 
 
-print()
+    print()
 
-employ2 = employee ("jamaica", "bayojamaica@gmail.com", "09074444340")
+    employ2 = employee ("jamaica", "bayojamaica@gmail.com", "09074444340")
 
-print(employ2.name)
+    print(employ2.name)
 
-print(employ2.email)
+    print(employ2.email)
 
-print(employ2.number)
+    print(employ2.number)
