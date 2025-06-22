@@ -21,7 +21,7 @@ Display all the properties of the object.
         self.number = number
         
 
-    employ1 = employee("maicah", "maicahmin14@gmail.com", "09216432337")
+    employ1 = employee("maicah", "maicabayo@gmail.com", "+639216432337")
 
     print(employ1.name)
 
@@ -32,7 +32,7 @@ Display all the properties of the object.
 
     print()
 
-    employ2 = employee ("jamaica", "bayojamaica@gmail.com", "09074444340")
+    employ2 = employee ("jamaica", "maicahmin@gmail.com", "+639216432447")
 
     print(employ2.name)
 
